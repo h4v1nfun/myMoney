@@ -1,0 +1,29 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="512" measuredH="1301" mockupW="471" mockupH="981">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="41" y="405" w="471" h="896" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="233" y="320" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vista%20de%20conta</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="107" y="568" w="-1" h="-1" measuredW="74" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>left</direction>
+        <newLayout>true</newLayout>
+        <size>20</size>
+        <text>back</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="226" y="567" w="-1" h="-1" measuredW="100" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Add%20Recipt</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
